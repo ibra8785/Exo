@@ -1,0 +1,139 @@
+/* HEADER */
+.call .navcal .ulcal
+{
+	border-bottom: 1px solid #ddd;
+}
+#telephone
+{
+	color: red;
+	font-size: 20px;
+}
+#mail
+{
+	color: red;
+	font-size: 20px;
+}
+#rs
+{
+	float: right;
+	font-size: 20px;
+}
+.diplome
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	background: red;
+	margin-right: 40px;
+	float: left;
+	text-align: center;
+	font-size: 15px;
+}
+header
+{
+	height: 120px;
+	margin-left: 100px;
+	margin-top: -25px;
+}
+header h1
+{
+	float: left;
+	margin: 30px:;
+}
+span
+{
+	color: red;
+	font-family: sans-serif;
+}
+header nav
+{
+	float: right;
+	margin-top: 25px;
+}
+ul
+{
+	list-style: none;
+}
+ul li
+{
+	display: inline-block;
+	margin-right: 12px;
+}
+header nav ul li:hover
+{
+	background-color: #ddd;
+	height: 0px 10px 0px 10px;
+}
+a
+{
+	font-weight: bold;
+	color: black;
+}
+/* SECTION 1 */
+#section1
+{
+	background-image: url(hot.JPG);
+	height: 500px;
+	margin-top: -35px;
+}
+#section2
+{
+	text-align: center;
+	font-family: cursive;
+	background-color: #ddd;
+	margin-top: -17px;
+}
+#section p
+{
+	text-align: center;
+	font-family: cursive;
+}
+#section2 .span1
+{
+	color: red;
+	font-size: 90px;
+	margin-right: : 100px;
+	float: right;
+}
+#section2 .span2
+{
+	color: red;
+	font-size: 90px;
+	margin-left: : 100px;
+	float: left;
+}
+h5
+{
+	color: red;
+}
+/* SECTION 3 */
+.section3 div
+{
+	
+	float: left;
+	margin-left: 100px;
+	width: 300px;
+	border:1px solid black;
+	text-align: center;
+	height: 200px;
+}
+.section3 div h1
+{
+	color: red;
+	font-family: cursive;
+	border-bottom: 1px solid #ddd;
+}
+/* Formulaire */
+form
+{
+	margin-top: 15px;
+	background-color: white;
+	width: 250px;
+	float: right;
+	display: inline-block;
+	margin-right: 60px;
+	height: 350px;
+	text-align: center;
+	color: red;
+	opacity: 0.90;
+}
